@@ -1,5 +1,6 @@
 body {
-  background: #6fa8f6;
+  background: url(http://backgrounds.picaboo.com/download/e9/9c/e9ca0fddc96e48489791c17c21d02e54/HT_DecBKRND_12.jpg) fixed;
+  color: #333333;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
@@ -46,8 +47,8 @@ nav a {
 }
 
 nav a:hover {
-  background: #3873b2;
-  color: #ffffff;
+  background: #c6dcda;
+  color: #333333;
   cursor: pointer;
   transition: background 300ms ease, color 300ms ease;
 }
